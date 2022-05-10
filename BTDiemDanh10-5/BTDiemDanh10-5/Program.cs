@@ -39,11 +39,34 @@ namespace BTDiemDanh10_5
         public void SapXepTang()
         {
             int[] mangtang = new int[10];
+            mangtang = mang;
+            for (int i = 0; i<10; i++)
+            {
+                for (int j = i + 1; j < 10; j++)
+                    if (mangtang[i] < mangtang[j])
+                    {
+                         int tg = mangtang[i];
+                         mangtang[i] = mangtang[j];
+                        mangtang[j] = tg;
+                    } 
+            }
         }
         public void SapXepGiam()
         {
-            int[] mangtang = new int[10];
+            int[] manggiam = new int[10];
+            manggiam = mang;
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = i + 1; j < 10; j++)
+                    if (manggiam[i] > manggiam[j])
+                    {
+                        int tg = manggiam[i];
+                        manggiam[i] = manggiam[j];
+                        manggiam[j] = tg;
+                    }
+            }
         }
+
 
         static void Main(string[] args)
         {
