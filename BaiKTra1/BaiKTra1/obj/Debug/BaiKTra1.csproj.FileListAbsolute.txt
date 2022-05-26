@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\bin\Debug\BaiKTra1.exe.config
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\bin\Debug\BaiKTra1.exe
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\bin\Debug\BaiKTra1.pdb
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\obj\Debug\BaiKTra1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\obj\Debug\BaiKTra1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\obj\Debug\BaiKTra1.exe
+C:\Users\asus\source\repos\BaiKTra1\BaiKTra1\obj\Debug\BaiKTra1.pdb

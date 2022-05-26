@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.AssemblyInfo.cs
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\bin\Debug\netcoreapp3.1\BTCoBan1.exe
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\bin\Debug\netcoreapp3.1\BTCoBan1.deps.json
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\bin\Debug\netcoreapp3.1\BTCoBan1.runtimeconfig.json
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\bin\Debug\netcoreapp3.1\BTCoBan1.runtimeconfig.dev.json
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\bin\Debug\netcoreapp3.1\BTCoBan1.dll
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\bin\Debug\netcoreapp3.1\BTCoBan1.pdb
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.dll
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.pdb
+C:\Users\asus\source\repos\BTCoBan1\BTCoBan1\obj\Debug\netcoreapp3.1\BTCoBan1.genruntimeconfig.cache

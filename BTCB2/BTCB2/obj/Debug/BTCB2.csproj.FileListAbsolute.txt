@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\BTCB2\BTCB2\bin\Debug\BTCB2.exe.config
+C:\Users\asus\source\repos\BTCB2\BTCB2\bin\Debug\BTCB2.exe
+C:\Users\asus\source\repos\BTCB2\BTCB2\bin\Debug\BTCB2.pdb
+C:\Users\asus\source\repos\BTCB2\BTCB2\obj\Debug\BTCB2.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BTCB2\BTCB2\obj\Debug\BTCB2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BTCB2\BTCB2\obj\Debug\BTCB2.exe
+C:\Users\asus\source\repos\BTCB2\BTCB2\obj\Debug\BTCB2.pdb
