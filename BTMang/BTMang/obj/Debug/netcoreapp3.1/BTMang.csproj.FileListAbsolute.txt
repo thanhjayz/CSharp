@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\BTMang\BTMang\bin\Debug\netcoreapp3.1\BTMang.exe
+C:\Users\asus\source\repos\BTMang\BTMang\bin\Debug\netcoreapp3.1\BTMang.deps.json
+C:\Users\asus\source\repos\BTMang\BTMang\bin\Debug\netcoreapp3.1\BTMang.runtimeconfig.json
+C:\Users\asus\source\repos\BTMang\BTMang\bin\Debug\netcoreapp3.1\BTMang.runtimeconfig.dev.json
+C:\Users\asus\source\repos\BTMang\BTMang\bin\Debug\netcoreapp3.1\BTMang.dll
+C:\Users\asus\source\repos\BTMang\BTMang\bin\Debug\netcoreapp3.1\BTMang.pdb
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.AssemblyInfo.cs
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.dll
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.pdb
+C:\Users\asus\source\repos\BTMang\BTMang\obj\Debug\netcoreapp3.1\BTMang.genruntimeconfig.cache

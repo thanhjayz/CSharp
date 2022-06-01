@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Bai61.cs" />
+    <Compile Remove="Bai62.cs" />
+    <Compile Remove="Bai63.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Bai61.cs" />
+    <None Include="Bai63.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Bai62.cs" />
+  </ItemGroup>
+
+</Project>
