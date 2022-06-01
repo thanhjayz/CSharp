@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\bin\Debug\netcoreapp3.1\BTDiemDanh26-4.exe
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\bin\Debug\netcoreapp3.1\BTDiemDanh26-4.deps.json
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\bin\Debug\netcoreapp3.1\BTDiemDanh26-4.runtimeconfig.json
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\bin\Debug\netcoreapp3.1\BTDiemDanh26-4.runtimeconfig.dev.json
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\bin\Debug\netcoreapp3.1\BTDiemDanh26-4.dll
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\bin\Debug\netcoreapp3.1\BTDiemDanh26-4.pdb
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.AssemblyInfo.cs
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.dll
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.pdb
+C:\Users\asus\source\repos\BTDiemDanh26-4\BTDiemDanh26-4\obj\Debug\netcoreapp3.1\BTDiemDanh26-4.genruntimeconfig.cache
